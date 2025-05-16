@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Th\u00E0nh\\\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79684A57-7167-418F-9524-05A956A91741}|\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED.csproj|d:\\th\u00E0nh\\\u0111\u1ECBnh danh \u0111i\u1EC7n t\u1EED\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79684A57-7167-418F-9524-05A956A91741}|\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED.csproj|solutionrelative:formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79684A57-7167-418F-9524-05A956A91741}|Test winform.csproj|D:\\Th\u00E0nh\\\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED\\formchuongtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79684A57-7167-418F-9524-05A956A91741}|Test winform.csproj|solutionrelative:formchuongtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79684A57-7167-418F-9524-05A956A91741}|Test winform.csproj|D:\\Th\u00E0nh\\\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED\\formdangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79684A57-7167-418F-9524-05A956A91741}|Test winform.csproj|solutionrelative:formdangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79684A57-7167-418F-9524-05A956A91741}|Test winform.csproj|D:\\Th\u00E0nh\\\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED\\formdangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79684A57-7167-418F-9524-05A956A91741}|Test winform.csproj|solutionrelative:formdangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79684A57-7167-418F-9524-05A956A91741}|Test winform.csproj|D:\\Th\u00E0nh\\\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED\\formchuongtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79684A57-7167-418F-9524-05A956A91741}|Test winform.csproj|solutionrelative:formchuongtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79684A57-7167-418F-9524-05A956A91741}|Test winform.csproj|D:\\Th\u00E0nh\\\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED\\caynhiphantimkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79684A57-7167-418F-9524-05A956A91741}|Test winform.csproj|solutionrelative:caynhiphantimkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79684A57-7167-418F-9524-05A956A91741}|Test winform.csproj|D:\\Th\u00E0nh\\\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79684A57-7167-418F-9524-05A956A91741}|Test winform.csproj|solutionrelative:formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79684A57-7167-418F-9524-05A956A91741}|Test winform.csproj|D:\\Th\u00E0nh\\\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED\\formdangki.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79684A57-7167-418F-9524-05A956A91741}|Test winform.csproj|solutionrelative:formdangki.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79684A57-7167-418F-9524-05A956A91741}|Test winform.csproj|D:\\Th\u00E0nh\\\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79684A57-7167-418F-9524-05A956A91741}|Test winform.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Formdangnhap.cs",
+              "DocumentMoniker": "D:\\Th\u00E0nh\\\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED\\Formdangnhap.cs",
+              "RelativeDocumentMoniker": "Formdangnhap.cs",
+              "ToolTip": "D:\\Th\u00E0nh\\\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED\\Formdangnhap.cs",
+              "RelativeToolTip": "Formdangnhap.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:47:03.956Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Formdangki.Designer.cs",
+              "DocumentMoniker": "D:\\Th\u00E0nh\\\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED\\Formdangki.Designer.cs",
+              "RelativeDocumentMoniker": "Formdangki.Designer.cs",
+              "ToolTip": "D:\\Th\u00E0nh\\\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED\\Formdangki.Designer.cs",
+              "RelativeToolTip": "Formdangki.Designer.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAADgv8EAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:48:33.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Formchuongtrinh.cs",
+              "DocumentMoniker": "D:\\Th\u00E0nh\\\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED\\Formchuongtrinh.cs",
+              "RelativeDocumentMoniker": "Formchuongtrinh.cs",
+              "ToolTip": "D:\\Th\u00E0nh\\\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED\\Formchuongtrinh.cs",
+              "RelativeToolTip": "Formchuongtrinh.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAHEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:57:56.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Formchuongtrinh.cs [Design]",
+              "DocumentMoniker": "D:\\Th\u00E0nh\\\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED\\Formchuongtrinh.cs",
+              "RelativeDocumentMoniker": "Formchuongtrinh.cs",
+              "ToolTip": "D:\\Th\u00E0nh\\Test winform\\Formchuongtrinh.cs [Design]",
+              "RelativeToolTip": "..\\Test winform\\Formchuongtrinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:56:48.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Formdangki.cs",
+              "DocumentMoniker": "D:\\Th\u00E0nh\\\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED\\Formdangki.cs",
+              "RelativeDocumentMoniker": "Formdangki.cs",
+              "ToolTip": "D:\\Th\u00E0nh\\\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED\\Formdangki.cs",
+              "RelativeToolTip": "Formdangki.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:19:17.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Caynhiphantimkiem.cs",
+              "DocumentMoniker": "D:\\Th\u00E0nh\\\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED\\Caynhiphantimkiem.cs",
+              "RelativeDocumentMoniker": "Caynhiphantimkiem.cs",
+              "ToolTip": "D:\\Th\u00E0nh\\\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED\\Caynhiphantimkiem.cs",
+              "RelativeToolTip": "Caynhiphantimkiem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:55:32.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Formdangki.cs [Design]",
+              "DocumentMoniker": "D:\\Th\u00E0nh\\\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED\\Formdangki.cs",
+              "RelativeDocumentMoniker": "Formdangki.cs",
+              "ToolTip": "D:\\Th\u00E0nh\\Test winform\\Formdangki.cs [Design]",
+              "RelativeToolTip": "..\\Test winform\\Formdangki.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:12:23.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Formdangnhap.cs [Design]",
+              "DocumentMoniker": "D:\\Th\u00E0nh\\\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED\\Formdangnhap.cs",
+              "RelativeDocumentMoniker": "Formdangnhap.cs",
+              "ToolTip": "D:\\Th\u00E0nh\\\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED\\Formdangnhap.cs [Design]",
+              "RelativeToolTip": "Formdangnhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:46:41.064Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Th\u00E0nh\\\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Th\u00E0nh\\\u0110\u1ECBnh danh \u0111i\u1EC7n t\u1EED\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAWwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:51:41.923Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

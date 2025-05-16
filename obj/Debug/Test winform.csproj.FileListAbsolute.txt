@@ -1,0 +1,24 @@
+D:\Thành\Cấu trúc dữ liệu và giải thuật\Test winform\bin\Debug\Test winform.exe.config
+D:\Thành\Cấu trúc dữ liệu và giải thuật\Test winform\bin\Debug\Test winform.exe
+D:\Thành\Cấu trúc dữ liệu và giải thuật\Test winform\bin\Debug\Test winform.pdb
+D:\Thành\Cấu trúc dữ liệu và giải thuật\Test winform\obj\Debug\Test winform.csproj.AssemblyReference.cache
+D:\Thành\Cấu trúc dữ liệu và giải thuật\Test winform\obj\Debug\Test_winform.Properties.Resources.resources
+D:\Thành\Cấu trúc dữ liệu và giải thuật\Test winform\obj\Debug\Test winform.csproj.GenerateResource.cache
+D:\Thành\Cấu trúc dữ liệu và giải thuật\Test winform\obj\Debug\Test winform.csproj.CoreCompileInputs.cache
+D:\Thành\Cấu trúc dữ liệu và giải thuật\Test winform\obj\Debug\Test winform.exe
+D:\Thành\Cấu trúc dữ liệu và giải thuật\Test winform\obj\Debug\Test winform.pdb
+D:\Thành\Cấu trúc dữ liệu và giải thuật\Test winform\obj\Debug\Test_winform.FormDangNhap.resources
+D:\Thành\Cấu trúc dữ liệu và giải thuật\Test winform\obj\Debug\Test_winform.FormChuongTrinh.resources
+D:\Thành\Cấu trúc dữ liệu và giải thuật\Test winform\obj\Debug\Test_winform.Formdangki.resources
+D:\Thành\Test winform\bin\Debug\Test winform.exe.config
+D:\Thành\Test winform\bin\Debug\Test winform.exe
+D:\Thành\Test winform\bin\Debug\Test winform.pdb
+D:\Thành\Test winform\obj\Debug\Test winform.csproj.AssemblyReference.cache
+D:\Thành\Test winform\obj\Debug\Test_winform.FormDangNhap.resources
+D:\Thành\Test winform\obj\Debug\Test_winform.FormChuongTrinh.resources
+D:\Thành\Test winform\obj\Debug\Test_winform.Formdangki.resources
+D:\Thành\Test winform\obj\Debug\Test_winform.Properties.Resources.resources
+D:\Thành\Test winform\obj\Debug\Test winform.csproj.GenerateResource.cache
+D:\Thành\Test winform\obj\Debug\Test winform.csproj.CoreCompileInputs.cache
+D:\Thành\Test winform\obj\Debug\Test winform.exe
+D:\Thành\Test winform\obj\Debug\Test winform.pdb
